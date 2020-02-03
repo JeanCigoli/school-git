@@ -58,3 +58,11 @@
 - **Git remote -v**: Para mostrar os link remotos.
 
 - **Git push origin master**: Para subir seu arquivo para o repositório.
+
+- **Git fetch**: Baixa as atualizações feitas em outro lugar e deixa em standby.
+
+- **Git diff origin/< branch>**: Mostra as diferenças entre as duas branch, serve antes de dar o pull.
+
+    ![](/gif/6.PNG)
+
+- **Git pull origin master**: Pegar os dados novos da branch e fazer o merge com o seu.
