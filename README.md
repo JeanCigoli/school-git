@@ -10,13 +10,15 @@
 
 - **Git log**: Nos mostra a linha de tempo de commit.
 
+![](/gif/1.PNG)
+
 - **Git add**: Adiciona os arquivos no modo storage (staging).
     * git add < file>;
     * git add . (tudo).
 
 - **Git rm --cached < file>**: Remove o arquivo que adicionamos.
 
-- **Git diff**: Mostra mudanças que teve nos arquivos.
+- **Git diff**: Mostra as diferenças que teve no work para o commit.
 
 - **Git Config**: Para configurar.
     * git config user.name "JeanCigoli";
