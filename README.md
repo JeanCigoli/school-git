@@ -56,3 +56,5 @@
 - **Git remote add origin < link>**: Para adicionar um link remote ao seu reporitório.
 
 - **Git remote -v**: Para mostrar os link remotos.
+
+- **Git push origin master**: Para subir seu arquivo para o repositório.
