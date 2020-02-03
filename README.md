@@ -8,7 +8,14 @@
 
 - **Git status**: Nos mostra o status desse repositório.
     * A nossa Branch;
-    * Mudanças para serem commitados.
+    * Mudanças para serem adicionadas.
+
+    ![](/gif/2.PNG)
+
+    * Mudanças já adicionadas.
+
+    ![](/gif/4.PNG)
+    
 
 - **Git log**: Nos mostra a linha de tempo de commit.
 
@@ -26,6 +33,8 @@
 
 - **Git diff**: Mostra as diferenças que teve no work para o commit.
 
+    ![](/gif/3.PNG)
+
 - **Git Config**: Para configurar.
     * git config user.name "JeanCigoli";
     * git config user.email "jeancigoli30@gmail.com".
@@ -37,3 +46,5 @@
 - **Git checkout < branch>**: Para mudar de branch.
 
 - **Arquivo .gitignore**: Para colocar os arquivos que serão ignorados.
+
+- **Git Branch < name>**: Para criar uma nova branch passando o name sem espaço. 
