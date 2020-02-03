@@ -6,5 +6,4 @@ console.log('Blá blá')
 
 // Alteração para estudo de casa e que puxar de outro lugar
 
-
 // Minha nova alteração feita na escola
