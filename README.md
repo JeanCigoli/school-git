@@ -48,3 +48,11 @@
 - **Arquivo .gitignore**: Para colocar os arquivos que serão ignorados.
 
 - **Git Branch < name>**: Para criar uma nova branch passando o name sem espaço. 
+
+- **Git merge < branch>**: Para subir as novas atualizações de um branch para a que você deseja.
+
+- **Git branch -D < branch>**: Para deletar uma branch que não está mais em uso
+
+- **Git remote add origin < link>**: Para adicionar um link remote ao seu reporitório.
+
+- **Git remote -v**: Para mostrar os link remotos.
